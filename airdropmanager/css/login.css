@@ -1,0 +1,55 @@
+
+
+.lgbody{
+  
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+}
+.lgmain{
+    border-radius: 20px;
+    outline: 0px;
+    background: rgba(214, 214, 214, 0.502);
+    margin: 20px;
+    padding: 100px;
+    height: 60%;
+    width: 60%;
+    justify-content: center;
+    box-shadow:0 0px 10px 1px rgb(100, 100, 100);
+    /* box-shadow: 0 0px 8px 0 rgba(255, 0, 0, 1), 0 0px 10px 10px rgba(0, 255, 0, 1); */
+    
+}
+.lgmain h1{
+    text-align: center;
+}
+.lgmain h4{
+    text-align: center;
+}
+.lgcontainer{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.lgcontainer h6{
+    text-align: center;
+}
+.lglg{
+    
+    justify-content: center;
+}
+.lgadmp{
+    margin: 5px;
+    padding: 2px;
+      text-align: center;
+      color: black;
+     }
+.divbd{
+
+ overflow: hidden;
+ /* position: absolute; */
+
+ display: flex;
+ justify-content: center; 
+ align-items: center;
+
+}

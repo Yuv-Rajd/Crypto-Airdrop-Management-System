@@ -1,0 +1,27 @@
+.frmclr{
+    background:red;
+}
+.body{
+   color: white;
+    
+    }
+    .admp{
+      
+      background-color: transparent;
+        text-align: center;
+        color: black;
+       }
+.divbd{
+  background-color: transparent;
+   overflow: hidden;
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   display: flex;
+   justify-content: center; 
+   align-items: center;
+  
+}
+.btmstyle{
+  color: antiquewhite;
+}

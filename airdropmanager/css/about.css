@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Josefin+Sans:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background: #000;
+} */
+.mwrapp{
+    /* font-family: 'Josefin Sans',sans-serif; */
+    margin: 0%;
+    justify-content:center;
+
+}
+.wrap{
+    
+    margin: 5%;
+    text-align:center;
+    
+}
+.atflex{
+    /* margin: 5%; */
+    display: flex;
+    justify-content:center;
+
+}
+h1{
+    /* margin-bottom:50px; */
+    text-align:center;
+}
+.wrap h1.ah1{
+    display:flex;
+    justify-content: center;
+    justify-self: center;
+    font-family:'Allura',sans-serif ;
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align:center;
+}
+.ateam{
+    display: flex;
+    text-align:center;
+    width: auto;
+}
+.ateam .ateammember{
+    
+    background:rgb(0, 248, 248);
+    box-shadow:5px 5px 8px 0 rgb(44, 94, 107);
+    margin: 10px 10px 10px 10px;
+    width: 300px; 
+    padding: 20px;
+    line-height: 20px;
+    color: red;
+    position: relative;
+}
+.ateam .ateammember h3{
+    color:rgb(0, 110, 255);
+    font-size: 25px;
+  
+
+}
+.ateam .ateammember p.arole{
+    color: rgb(17, 15, 15);
+    font-size: 12px;
+    text-transform: uppercase;
+    /* margin: 10px 10px 10px 10px; */
+
+}
+.ateam .ateammember p.arole1{
+    color: rgb(87, 0, 95);
+   
+    
+    /* margin: 10px 10px 10px 10px; */
+
+}
+ 

@@ -1,0 +1,98 @@
+footer{
+    /* position:fixed; */
+    
+    bottom: 0;
+    clear: both;
+    left: 0;
+    right: 0;
+    width:100%;
+    background:rgb(37, 150, 190);
+    /* box-shadow:0 -5px 8px 0 rgba(0,0,0,1); */
+    
+}
+
+
+.footerbtm{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:rgb(37, 150, 190);
+    border: 1px ;
+    margin-top:0.5%;
+    padding: 5px;
+    
+
+}
+.footerbtm h3{
+    color:#eecb97;
+    text-align: center;
+    margin: 1px;;
+    padding: 2px;
+
+}
+.footerbtm p{
+
+    text-align: center;
+    margin:1px;
+    padding: 2px;
+}
+.fp{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.fp:hover{
+    color: black;
+}
+.abt1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    margin: 2px;
+    gap: 70px;
+    text-align:left;
+    padding:1px 50px 1px 50px ;
+
+} 
+.abtdnt{
+padding: 3px;
+}
+.abtinfo{
+
+    /* margin: 1px; */
+    padding: 2px;
+    text-justify: justify;
+    width:300px;
+    text-align:justify;
+
+}
+.abtinfo p{
+    display:block;
+    }
+.fp2{
+    /* color: red; */
+    text-justify: relative;
+    text-align: center;
+    padding: 1px;
+
+}
+.abtimg{
+    background:red;
+    height: 150px;
+    /* width: 20px; */
+    
+    margin: 4px;
+    
+}
+.h4t{
+    text-align: center;
+margin-top: 15px;
+padding-bottom: 2px;
+}
+.h4t ul li{
+    justify-content: center;
+    list-style: none;
+    color: red;
+    /* margin: 1px; */
+    padding: 1px;
+}
