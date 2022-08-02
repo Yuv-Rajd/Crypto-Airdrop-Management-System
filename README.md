@@ -3,7 +3,7 @@
 
 
 <h3>intro </h3><br>
-<img src="airdropmanager/image/am1.jpg" width=80% height=80%><br>
+<img src="airdropmanager/image/am1.jpg"  height=50%><br>
 
 
 <h3>Home Page </h3><br>
