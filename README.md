@@ -1,13 +1,8 @@
 # Crypto-Airdrop-Management-System
 
 
-
-<h3>intro </h3><br>
-<img src="airdropmanager/image/am1.jpg"  height=50%><br>
-
-
 <h3>Home Page </h3><br>
-<img src="airdropmanager/image/am1.jpg" ><br>
+<img src="airdropmanager/image/am1.jpg" height=500><br>
 
 <h3>Login Page</h3><br>
 <img src="airdropmanager/image/am3.jpg" ><br>
