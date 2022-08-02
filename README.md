@@ -8,7 +8,7 @@
 <img src="airdropmanager/image/am3.jpg" height=200><br>
 
 <h3>Cantact Page</h3><br>
-<img src="airdropmanager/image/am2.jpg" height=200><br>
+<img src="airdropmanager/image/am2.jpg" height=300><br>
 
 <h3>Admin dashboard</h3><br>
 <img src="airdropmanager/image/am4.jpg" height=200><br>
